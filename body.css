@@ -1,0 +1,9 @@
+body{
+    background: burlywood;
+    background-image: url(img/b\ ball.avif);
+    background-size: cover;
+}
+.text{
+    color: red;
+    text-align: center;
+}

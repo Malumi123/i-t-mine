@@ -1,0 +1,25 @@
+body{
+    margin-top: 20px;
+    background: bisque;
+    padding: 50px;
+    margin-top: 0px;
+    background-image: url(img/need.avif);
+    background-size: covers;
+    color: white;
+}
+.tongue{
+    color: brown;
+}
+.logo{
+    border:solid blue 1px;
+    border-radius: 10px
+}
+.leg{
+    color: yellow;
+}
+.red{
+    color: red;
+}
+.jj{
+    color: black;
+}
